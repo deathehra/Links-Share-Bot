@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Sahil0976/Links-Sharing",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://postimg.cc/9zPjBvZK",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "6893463477"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -27,7 +27,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "linkssharing"
+      "value": "links"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
